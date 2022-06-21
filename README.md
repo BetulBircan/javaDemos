@@ -1,2 +1,18 @@
 # Java Demos
-- Java ile ilgili Temel Düzeyde Örnekler ve Uygulamalar Gerçeklrştirilmiştir.
+- Java ile ilgili Temel Düzeyde Örnekler ve Uygulamalar Gerçekleştirilmiştir.
+- Hello World
+- Değişkenler
+- Veri Türleri
+- İf Bloğu
+- En büyük Sayıyı Bulma Örneği
+- Switch Bloğu
+- Döngüler
+- Diziler
+- Verilen Dizideki Sayıların Toplamını ve En Büyük Sayıyı Bulma Örneği
+- Çok Boyulu Diziler
+- String Fonksiyonları
+- Asal Sayı Örneği
+- İnce ve Kalın Sesli Harfi Bulma Örneği
+- Mükemmel Sayıyı Bulma Örneği
+- Arkadaş Sayıyı Bulma Örneği
+- Bir Sayının Verilen Dizide Olup Olmadığını Bulma Örneği
