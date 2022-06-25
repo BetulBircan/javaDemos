@@ -16,3 +16,4 @@
 - Mükemmel Sayıyı Bulma Örneği
 - Arkadaş Sayıyı Bulma Örneği
 - Bir Sayının Verilen Dizide Olup Olmadığını Bulma Örneği
+- Metodları Anlama
