@@ -17,3 +17,5 @@
 - Arkadaş Sayıyı Bulma Örneği
 - Bir Sayının Verilen Dizide Olup Olmadığını Bulma Örneği
 - Metodları Anlama
+- Parametreli Metodları Anlama
+- Variable Arguments İle Çalışma
