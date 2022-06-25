@@ -8,6 +8,8 @@ public class Main {
         System.out.println(yeniMesaj);
         int sayi = topla(5, 7);
         System.out.println("Toplam: " + sayi);
+        int toplam = topla2( 2, 3, 4, 5, 6, 10);
+        System.out.println("Sayılar Toplamı: " + toplam);
     }
 
     //method isimlerndirmeleri küçük harfle başlar. camelCase yöntemi kullanılır
@@ -27,6 +29,17 @@ public class Main {
     //burada int değeri döndürür return ile
     public static int topla(int sayi1, int sayi2) {
         return sayi1 + sayi2;
+    }
+
+    //burada istediğimiz kadar sayıları toplayabilmek için variable arguments kullanırız
+    public static int topla2(int... sayilar) {
+        int toplam = 0;
+
+        for(int sayi : sayilar) {
+            toplam += sayi;
+        }
+
+        return toplam;
     }
 
     public static String sehirVer() {
