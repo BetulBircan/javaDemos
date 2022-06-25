@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/arkadasSayilar/arkadasSayilar.iml" filepath="$PROJECT_DIR$/arkadasSayilar/arkadasSayilar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraysDemo/arraysDemo.iml" filepath="$PROJECT_DIR$/arraysDemo/arraysDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionals/conditionals.iml" filepath="$PROJECT_DIR$/conditionals/conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datatypes/datatypes.iml" filepath="$PROJECT_DIR$/datatypes/datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloWorld/helloWorld.iml" filepath="$PROJECT_DIR$/helloWorld/helloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaDemos(JAVAKampı).iml" filepath="$PROJECT_DIR$/.idea/javaDemos(JAVAKampı).iml" />
+      <module fileurl="file://$PROJECT_DIR$/loopDemo/loopDemo.iml" filepath="$PROJECT_DIR$/loopDemo/loopDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods2/methods2.iml" filepath="$PROJECT_DIR$/methods2/methods2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mukemmelSayilar/mukemmelSayilar.iml" filepath="$PROJECT_DIR$/mukemmelSayilar/mukemmelSayilar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" filepath="$PROJECT_DIR$/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reCapDemo2/reCapDemo2.iml" filepath="$PROJECT_DIR$/reCapDemo2/reCapDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recapDemo1/recapDemo1.iml" filepath="$PROJECT_DIR$/recapDemo1/recapDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sayiBulma/sayiBulma.iml" filepath="$PROJECT_DIR$/sayiBulma/sayiBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesliHarfler/sesliHarfler.iml" filepath="$PROJECT_DIR$/sesliHarfler/sesliHarfler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringsDemo/stringsDemo.iml" filepath="$PROJECT_DIR$/stringsDemo/stringsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchDemo/switchDemo.iml" filepath="$PROJECT_DIR$/switchDemo/switchDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variables/variables.iml" filepath="$PROJECT_DIR$/variables/variables.iml" />
+    </modules>
+  </component>
+</project>
