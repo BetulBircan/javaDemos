@@ -1,19 +1,36 @@
 public class Product {
+
+    //constructors
+    public Product(int id, String name, String description, double price, int stockAmount, String color) {
+        System.out.println("Yapıcı Blok Çalıştı");
+        this.id = id;
+        this.name = name;
+        this.description = description;
+        this.price = price;
+        this.stockAmount = stockAmount;
+        this.color = color;
+    }
+
+    //Overloading
+    public Product() {
+
+    }
+
     //Attribute or field
     private int id;
     private String name;
     private String description;
     private double price;
     private int stockAmount;
-    private String renk;
-    private String kod;
+    private String color;
+    private String code;
 
-    //getter
+    //getter-read only
     public int getId() {
         return id;
     }
 
-    //setter
+    //setter-write only
     public void setId(int id) {
         this.id = id;
     }
@@ -51,15 +68,15 @@ public class Product {
         this.stockAmount = stockAmount;
     }
 
-    public String getRenk() {
-        return renk;
+    public String getColor() {
+        return color;
     }
 
-    public void setRenk(String renk) {
-        this.renk = renk;
+    public void setColor(String color) {
+        this.color = color;
     }
 
-    public String getKod() {
+    public String getCode() {
         return this.name.substring(0,1) + id;
     }
 
