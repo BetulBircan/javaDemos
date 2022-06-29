@@ -9,10 +9,13 @@ public class Main {
 
         double sayi = 12.5;
         sayi = -129;
+        System.out.println("Sayı: " + sayi);
 
         char karakter = 'A';
+        System.out.println("Karakter: " + karakter);
 
         boolean dogruMu = false;
+        System.out.println("Doğru mu: " + dogruMu);
 
     }
 }
