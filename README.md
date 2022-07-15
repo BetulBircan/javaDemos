@@ -25,3 +25,8 @@
 - Encapsulation(Getter ve Setter) Yapısı
 - Construction
 - Method Overloading
+- İnheritance
+- İnheritance Demo
+- Polymorphisim
+- Overriding
+
