@@ -1,17 +1,17 @@
 public class DortIslem {
-    public int Topla(int a, int b) {
+    public int topla(int a, int b) {
         return a + b;
     }
 
-    public int Cikar(int a, int b) {
+    public int cikar(int a, int b) {
         return a - b;
     }
 
-    public int Carp(int a, int b) {
+    public int carp(int a, int b) {
         return a * b;
     }
 
-    public int Bol(int a, int b) {
+    public int bol(int a, int b) {
         return a / b;
     }
 }
