@@ -1,14 +1,14 @@
 public class CustomerManager {
-    //Class names start with upper case and that use PascalCase.
-    public void Add() {
+    //class isimleri PascalCase ile başlar.
+    public void add() {
         System.out.println("Müşteri Eklendi");
     }
 
-    public void Remove() {
+    public void remove() {
         System.out.println("Müşteri Silindi");
     }
 
-    public void Update() {
+    public void update() {
         System.out.println("Müşteri Güncellendi");
     }
 }
