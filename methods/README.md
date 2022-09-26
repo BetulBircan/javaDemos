@@ -3,6 +3,20 @@ Java’da metotlar, belirli işlemleri gerçekleştirmemizi sağlayan talimatlar
 kodu kolaylıkla değiştirebiliriz. Metotları tanımladıktan sonra programımız içerisinde çağrılana kadar herhangi bir işlem yapılmaz. Yani o metodu kullanabilmemiz için 
 çağırmamız gerekmektedir. 
 
+```
+ErisimBelirleyici DönüsTipi MetotAdı (Parametre listesi)
+    {
+        //metot gövdesi
+    }
+
+```
+
+- ErisimBelirleyici: Metodumuza nasıl erişeceğimizi belirtir.
+- DönüsTipi: Metotdan dönecek olan değerin türüdür. int, String gibi türler belirtebiliriz.
+- MetotAdı: Metoda verilecek olan isimdir. Metot adımızı çağırmak istediğimizde kullanacağız.
+- Parametre listesi: Gönderilecek olan değişkenleri belirtiriz.
+- Metot gövdesi: Metodun içerisinde gerçekleştirilecek olan işlemler yazılır.
+
 **NOT :** Javada main metodundan itibaren çalışmaya başlar.
 
 ```
