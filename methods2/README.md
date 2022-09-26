@@ -1,6 +1,21 @@
-# Parametreli Methodlar
-Metotların bir diğer varyasyonu, herhangi bir türden bir veya daha fazla parametre almasıdır. Girilecek olan parametre sayısı için bir sınır yoktur. Parametreler integer,
-String, char, double gibi herhangi bir türden olabilir.
+# Parametreli Methodlar ve Variable Arguments Kullanımı
+Metotların bir diğer varyasyonu, herhangi bir türden bir veya daha fazla parametre almasıdır. Girilecek olan parametre sayısı için bir sınır yoktur. Parametreler integer, String, char, double gibi herhangi bir türden olabilir.
+
+Java'daki Değişken Argümanlar (Varargs), değişken sayıda argüman alan bir yöntemdir. Java'daki Değişken Argümanlar, değişken sayıda argüman alması gereken yöntemlerin oluşturulmasını basitleştirir.
+
+```
+ public static int topla2(int... sayilar) {
+        int toplam = 0;
+
+        for(int sayi : sayilar) {
+            toplam += sayi;
+        }
+
+        return toplam;
+    }
+```
+
+
 
 ```
 public class Main {
