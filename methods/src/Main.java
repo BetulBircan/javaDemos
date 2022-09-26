@@ -1,9 +1,16 @@
 public class Main {
 
     public static void main(String[] args) {
+        //Farklı ekrana yazdık olarak düşünülebilir
         sayiBulmaca();
+
+        //Farklı ekrana yazdık olarak düşünülebilir
         sayiBulmaca();
+
+        //Farklı ekrana yazdık olarak düşünülebilir
         sayiBulmaca();
+
+        //Farklı ekrana yazdık olarak düşünülebilir
         sayiBulmaca();
     }
 
