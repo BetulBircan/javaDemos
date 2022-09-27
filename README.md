@@ -27,6 +27,6 @@
 - [Method Overloading](https://github.com/BetulBircan/javaDemos/tree/main/methodOverloading)
 - [İnheritance](https://github.com/BetulBircan/javaDemos/tree/main/inheritance)
 - [İnheritance Demo](https://github.com/BetulBircan/javaDemos/tree/main/inheritanceDemo)
-- Polymorphisim
-- Overriding
+- [Polymorphisim](https://github.com/BetulBircan/javaDemos/tree/main/polymorphisimDemo)
+- [Overriding](https://github.com/BetulBircan/javaDemos/tree/main/overriding)
 
