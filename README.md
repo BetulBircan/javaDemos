@@ -16,15 +16,15 @@
 - [Mükemmel Sayıyı Bulma Örneği](https://github.com/BetulBircan/javaDemos/tree/main/mukemmelSayilar)
 - [Arkadaş Sayıyı Bulma Örneği](https://github.com/BetulBircan/javaDemos/tree/main/arkadasSayilar)
 - [Bir Sayının Verilen Dizide Olup Olmadığını Bulma Örneği](https://github.com/BetulBircan/javaDemos/tree/main/sayiBulma)
-- Metodları Anlama
-- Parametreli Metodları Anlama
-- Variable Arguments İle Çalışma
-- Class Yapısı
-- Hesap Makinesi Yapma Örneği
-- Classlarda Attribute, Field Yapısı
-- Encapsulation(Getter ve Setter) Yapısı
-- Construction
-- Method Overloading
+- [Metodları Anlama](https://github.com/BetulBircan/javaDemos/tree/main/methods)
+- [Parametreli Metodları Anlama](https://github.com/BetulBircan/javaDemos/tree/main/methods2)
+- [Variable Arguments İle Çalışma](https://github.com/BetulBircan/javaDemos/tree/main/methods2)
+- [Class Yapısı](https://github.com/BetulBircan/javaDemos/tree/main/classes)
+- [Hesap Makinesi Yapma Örneği](https://github.com/BetulBircan/javaDemos/tree/main/reCapDemo_Classes)
+- [Classlarda Attribute, Field Yapısı](https://github.com/BetulBircan/javaDemos/tree/main/classesWithAttributes)
+- [Encapsulation(Getter ve Setter) Yapısı](https://github.com/BetulBircan/javaDemos/tree/main/classesWithAttributes)
+- [Construction](https://github.com/BetulBircan/javaDemos/tree/main/classesWithAttributes)
+- [Method Overloading](https://github.com/BetulBircan/javaDemos/tree/main/methodOverloading)
 - İnheritance
 - İnheritance Demo
 - Polymorphisim
