@@ -25,8 +25,8 @@
 - [Encapsulation(Getter ve Setter) Yapısı](https://github.com/BetulBircan/javaDemos/tree/main/classesWithAttributes)
 - [Construction](https://github.com/BetulBircan/javaDemos/tree/main/classesWithAttributes)
 - [Method Overloading](https://github.com/BetulBircan/javaDemos/tree/main/methodOverloading)
-- İnheritance
-- İnheritance Demo
+- [İnheritance](https://github.com/BetulBircan/javaDemos/tree/main/inheritance)
+- [İnheritance Demo](https://github.com/BetulBircan/javaDemos/tree/main/inheritanceDemo)
 - Polymorphisim
 - Overriding
 
