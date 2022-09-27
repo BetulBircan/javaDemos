@@ -1,7 +1,7 @@
 # Overriding
 
 Java Overriding, programlarımızda kullandığımız kalıtım sayesinde üst sınıftan, alt sınıfa geçecek metotların o sınıf yapısına uygun bir şekilde tekrardan gövdesinin
-değiştirilmesine ve kod satırlarının yeniden şekil almasına olanak sağlayayn yapıdır.
+değiştirilmesine ve kod satırlarının yeniden şekil almasına olanak sağlayan yapıdır.
 
 **Burada kredi hesaplaması işleminin öğrenci, tarım ve öğretmen kredisine göre yapılması simüle edilmiştir.**
 
